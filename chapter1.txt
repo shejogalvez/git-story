@@ -4,3 +4,4 @@ He had one dream - to explore the mysterious world of Version Control.
 He was determined to fulfill that dream
 -- Git is making breakfast -- 
 -- Git is eating protein to get stronger for future challenges --
+Git was eager to explore new places.
