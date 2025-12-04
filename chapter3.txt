@@ -4,3 +4,4 @@ Git took a deep breath as he stepped into the world of Version Control.
 He knew the journey wouldn't be easy, but he was ready.
 He was doing this for his village, for Init.
 
+But as he ventured deeper, he encountered his first challenge: the Repository Forest.
