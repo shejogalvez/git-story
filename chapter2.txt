@@ -2,3 +2,5 @@ Chapter 2: Git's Decision
 Git, after much contemplation, decided to leave his home in Init to explore the vast world of Version Control.
 But this was going to be no easy task.
 His family and friends gathered to bid him farewell. It was an emotional moment, but Git was determined.
+
+He packed his essentials: a sturdy backpack, a map of the Version Control lands, and a heart full of courage.
