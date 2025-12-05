@@ -6,3 +6,4 @@ He was doing this for his village, for Init.
 
 But as he ventured deeper, he encountered his first challenge: the Repository Forest.
 The trees were tall and dense, their branches intertwining like a complex web of code.
+The first challenge Git faced was understanding the concepts of Version Control.
