@@ -1,0 +1,121 @@
+6c48716 HEAD@{0}: commit: Chapter 1: Breakfast "bug"
+de6868b HEAD@{1}: commit (amend): Chapter 4: Git's Victory
+6e679c1 HEAD@{2}: checkout: moving from 335a2fe76c5aae716b0aa37f81a3302a5e91f419 to main
+335a2fe HEAD@{3}: checkout: moving from fada29b3628a7402fda6640165f13b0807556820 to 335a2fe76c5aae716b0aa37f81a3302a5e91f419
+fada29b HEAD@{4}: checkout: moving from 7fab0368a45a6091c12176bde3622ea2cc80b12c to fada29b3628a7402fda6640165f13b0807556820
+7fab036 HEAD@{5}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to 7fab0368a45a6091c12176bde3622ea2cc80b12c
+0bce6ae HEAD@{6}: checkout: moving from main to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+6e679c1 HEAD@{7}: checkout: moving from 62f4779cb9f5db9c4184b50d17477ae3392bcfe3 to main
+62f4779 HEAD@{8}: checkout: moving from 66a80bb7c109598db2a3d350fc4b01fc7613a3bb to 62f4779cb9f5db9c4184b50d17477ae3392bcfe3
+66a80bb HEAD@{9}: checkout: moving from e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127 to 66a80bb7c109598db2a3d350fc4b01fc7613a3bb
+e6ca24a HEAD@{10}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127
+0bce6ae HEAD@{11}: checkout: moving from main to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+6e679c1 HEAD@{12}: checkout: moving from 62f4779cb9f5db9c4184b50d17477ae3392bcfe3 to main
+62f4779 HEAD@{13}: checkout: moving from 66a80bb7c109598db2a3d350fc4b01fc7613a3bb to 62f4779cb9f5db9c4184b50d17477ae3392bcfe3
+66a80bb HEAD@{14}: checkout: moving from e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127 to 66a80bb7c109598db2a3d350fc4b01fc7613a3bb
+e6ca24a HEAD@{15}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127
+0bce6ae HEAD@{16}: checkout: moving from main to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+6e679c1 HEAD@{17}: checkout: moving from 335a2fe76c5aae716b0aa37f81a3302a5e91f419 to main
+335a2fe HEAD@{18}: checkout: moving from fada29b3628a7402fda6640165f13b0807556820 to 335a2fe76c5aae716b0aa37f81a3302a5e91f419
+fada29b HEAD@{19}: checkout: moving from 7fab0368a45a6091c12176bde3622ea2cc80b12c to fada29b3628a7402fda6640165f13b0807556820
+7fab036 HEAD@{20}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to 7fab0368a45a6091c12176bde3622ea2cc80b12c
+0bce6ae HEAD@{21}: checkout: moving from main to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+6e679c1 HEAD@{22}: checkout: moving from 62f4779cb9f5db9c4184b50d17477ae3392bcfe3 to main
+62f4779 HEAD@{23}: checkout: moving from 66a80bb7c109598db2a3d350fc4b01fc7613a3bb to 62f4779cb9f5db9c4184b50d17477ae3392bcfe3
+66a80bb HEAD@{24}: checkout: moving from e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127 to 66a80bb7c109598db2a3d350fc4b01fc7613a3bb
+e6ca24a HEAD@{25}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to e6ca24a2a4ffa4212862a0bd85aa7f6dc9301127
+0bce6ae HEAD@{26}: checkout: moving from 87062e2bacf011801b19ba1e17aae475023fd899 to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+87062e2 HEAD@{27}: checkout: moving from 0bce6aec5bea17d570d9c12701a94c989f10ce20 to 87062e2bacf011801b19ba1e17aae475023fd899
+0bce6ae HEAD@{28}: checkout: moving from main to 0bce6aec5bea17d570d9c12701a94c989f10ce20
+6e679c1 HEAD@{29}: checkout: moving from main to main
+6e679c1 HEAD@{30}: commit: Chapter 4: Git's Victory
+e9f1c35 HEAD@{31}: cherry-pick: Chapter 3: Git's first challenge
+898beda HEAD@{32}: reset: moving to head~2
+929fd1f HEAD@{33}: commit: Chapter 3: Git's first challenge
+0ed263d HEAD@{34}: checkout: moving from chapter_fork to main
+13ba342 HEAD@{35}: cherry-pick: Chapter 2: Thoughts from home
+c1c2273 HEAD@{36}: checkout: moving from main to chapter_fork
+0ed263d HEAD@{37}: commit: Chapter 2: Thoughts from home
+898beda HEAD@{38}: cherry-pick: Revert "Chapter 2: The tough journey ahead"
+af0aaa9 HEAD@{39}: cherry-pick: Chapter 2: The tough journey ahead
+b17fe1e HEAD@{40}: commit (cherry-pick): Chapter 1: Git's eagerness
+6781148 HEAD@{41}: checkout: moving from chapter_fork to main
+c1c2273 HEAD@{42}: reset: moving to c1c22734ecda36999eb9c89f54830c6c8d2d2d1f
+c1c2273 HEAD@{43}: rebase (finish): returning to refs/heads/chapter_fork
+c1c2273 HEAD@{44}: rebase (pick): Chapter fork: the spin-off
+6781148 HEAD@{45}: rebase (start): checkout main
+8752287 HEAD@{46}: checkout: moving from main to chapter_fork
+6781148 HEAD@{47}: commit: Chapter 1: writers are tired
+7fab036 HEAD@{48}: checkout: moving from chapter_fork to main
+8752287 HEAD@{49}: commit: Chapter fork: the spin-off
+7fab036 HEAD@{50}: checkout: moving from main to chapter_fork
+7fab036 HEAD@{51}: checkout: moving from chapter_hub to main
+360b500 HEAD@{52}: commit: Chapter Hub: Filler episode
+5b01abb HEAD@{53}: commit: Chapter Hub: more lines
+e3c83c7 HEAD@{54}: merge main: Merge made by the 'ort' strategy.
+029f40a HEAD@{55}: commit: Chapter Hub: The Adventure in the Hub
+335a2fe HEAD@{56}: checkout: moving from main to chapter_hub
+7fab036 HEAD@{57}: commit: Chapter 1: Hiatus
+335a2fe HEAD@{58}: reset: moving to 335a2fe
+f2bf0c2 HEAD@{59}: checkout: moving from chapter_hub to main
+335a2fe HEAD@{60}: checkout: moving from main to chapter_hub
+f2bf0c2 HEAD@{61}: reset: moving to HEAD^
+9716bd6 HEAD@{62}: commit: Chapter 3: Git's confidence
+f2bf0c2 HEAD@{63}: revert: Revert "Chapter 2: The tough journey ahead"
+99f12b3 HEAD@{64}: commit: Chapter 2: The tough journey ahead
+faebdc8 HEAD@{65}: commit (amend): Chapter 1: Git's eagerness
+5ce0745 HEAD@{66}: commit: Chpater 1: Git's eagerness
+335a2fe HEAD@{67}: rebase (finish): returning to refs/heads/main
+335a2fe HEAD@{68}: rebase (pick): C3: more line v2.1
+4d71227 HEAD@{69}: rebase (pick): C3: more line v2.0
+fada29b HEAD@{70}: rebase (pick): C3: more line v1
+1639223 HEAD@{71}: rebase (pick): C3: add lines
+0bce6ae HEAD@{72}: rebase (pick): chapter 2 further continuation
+bffac57 HEAD@{73}: rebase (pick): chapter 2 continuation
+3e8775f HEAD@{74}: rebase (start): checkout HEAD~6
+4d5bfda HEAD@{75}: rebase (finish): returning to refs/heads/main
+4d5bfda HEAD@{76}: rebase (start): checkout HEAD~5
+4d5bfda HEAD@{77}: commit: chapter 2 further continuation
+ff5e7d3 HEAD@{78}: commit: chapter 2 continuation
+c82b866 HEAD@{79}: rebase (finish): returning to refs/heads/main
+c82b866 HEAD@{80}: rebase (pick): C3: more line v2.1
+af18cfe HEAD@{81}: rebase (reword): C3: more line v2.0
+e3c77e6 HEAD@{82}: rebase: fast-forward
+1df36c0 HEAD@{83}: rebase (start): checkout HEAD~3
+64e2eb8 HEAD@{84}: rebase (finish): returning to refs/heads/main
+64e2eb8 HEAD@{85}: rebase (pick): C3: more line v2.1
+e3c77e6 HEAD@{86}: rebase (pick): C3: more line v2
+1df36c0 HEAD@{87}: rebase (reword): C3: more line v1
+108832e HEAD@{88}: rebase: fast-forward
+11e94b6 HEAD@{89}: rebase (start): checkout HEAD~3
+407d063 HEAD@{90}: commit: C3: more line v2.1
+32e3cd1 HEAD@{91}: commit: C3: more line v2
+108832e HEAD@{92}: commit: C3: more line
+11e94b6 HEAD@{93}: rebase (abort): returning to refs/heads/main
+da09b27 HEAD@{94}: rebase (start): checkout HEAD~3
+11e94b6 HEAD@{95}: rebase (finish): returning to refs/heads/main
+11e94b6 HEAD@{96}: rebase (squash): C3: add lines
+0e78382 HEAD@{97}: rebase (squash): # This is a combination of 2 commits.
+e313e9f HEAD@{98}: rebase (start): checkout HEAD~3
+e11d194 HEAD@{99}: commit: C3: add line 3
+fc725da HEAD@{100}: commit: C3: add line 2
+e313e9f HEAD@{101}: commit: C3: add line 1
+3e8775f HEAD@{102}: reset: moving to HEAD
+3e8775f HEAD@{103}: reset: moving to HEAD
+3e8775f HEAD@{104}: commit: Chapter 2: Extended story
+65b8d04 HEAD@{105}: commit (merge): Merge branch 'conflict_branch'
+da09b27 HEAD@{106}: commit: Sillier change in chapter1
+e6ca24a HEAD@{107}: checkout: moving from conflict_branch to main
+e500b51 HEAD@{108}: commit: silly chapter1 edit
+e6ca24a HEAD@{109}: checkout: moving from main to conflict_branch
+e6ca24a HEAD@{110}: merge chapter3: Merge made by the 'ort' strategy.
+087c652 HEAD@{111}: commit: extend chapters 1 & 2
+66a80bb HEAD@{112}: checkout: moving from chapter3 to main
+9e8f4dc HEAD@{113}: commit: Chapter 3: Git's first step
+66a80bb HEAD@{114}: checkout: moving from main to chapter3
+66a80bb HEAD@{115}: merge chapter2: Fast-forward
+62f4779 HEAD@{116}: checkout: moving from chapter2 to main
+66a80bb HEAD@{117}: commit: Chapter 2: Git's decision
+62f4779 HEAD@{118}: checkout: moving from main to chapter2
+62f4779 HEAD@{119}: commit: git commit -m "Chapter 1: Extended story"
+87062e2 HEAD@{120}: commit (initial): Chapter 1: Introduce Git from Init village
